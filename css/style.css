@@ -1,39 +1,35 @@
-body
-{
+body{
 	font-family: 'Lato', sans-serif !important;
 	color: #747784;
 	font-weight: 300 ;
 }
-.text-muted 
-{
-	color: #BC8888;
+
+.text-muted {
+	color: #bc8888;
 }
-.text-thin
-{
-	font-weight: 100 ;
+
+.text-thin{
+	font-weight: 100;
 }
-.title-super 
-{
-	font-size: 60px ;
+
+.title-super {
+	font-size: 60px;
 }
-.title-logo 
-{
+
+.title-logo {
 	margin-top: 20px ;
 }
-.size 
-{
-	height: 300px ;
-	width: 300px ;
-	margin:auto;
+
+.center_class{
+	margin: auto;
 }
-.temp
-{
-	text-align:center ;
-	margin:auto;
-	height:auto;
-	width:100%;
+
+.temp{
+	text-align: center;
+	margin: auto;
+	width: 100%;
 }
-.container 
-{
-	padding-bottom:50px;
+
+.container {
+	padding-bottom: 50px;
 }
