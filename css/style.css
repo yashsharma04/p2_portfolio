@@ -20,3 +20,20 @@ body
 {
 	margin-top: 20px ;
 }
+.size 
+{
+	height: 300px ;
+	width: 300px ;
+	margin:auto;
+}
+.temp
+{
+	text-align:center ;
+	margin:auto;
+	height:auto;
+	width:100%;
+}
+.container 
+{
+	padding-bottom:50px;
+}
